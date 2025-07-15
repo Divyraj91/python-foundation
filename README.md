@@ -1,2 +1,2 @@
 # python-foundation
-Python basics and final project
+Python projects
